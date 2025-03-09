@@ -1,0 +1,71 @@
+.button {
+  background-color: #ffa200;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: white;
+  margin: 10px;
+}
+
+.button.circle {
+  padding: 15px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #6eda78;
+  color: white;
+}
+
+.button.rounded {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #ffa200;
+  color: white;
+}
+
+.button.rectangle {
+  padding: 10px 20px;
+  border-radius: 0;
+  background-color: #6eda78;
+  color: white;
+}
+
+.button.triangle {
+  width: 100px;
+  height: 100px;
+  background-color: #ffa200;
+  border: none;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.button.triangle:hover {
+  background-color: #d68f00;
+}
+
+.button.hexagon {
+  width: 140px;
+  height: 58px;
+  background-color: #6eda78;
+  border: none;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.button.hexagon:hover {
+  background-color: #4c9e5f;
+}

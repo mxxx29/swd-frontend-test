@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome",
+  "frontendDeveloper": "Test Frontend Developer",
+  "switchToEnglish": "Switch to English",
+  "switchToThai": "Switch to Thai",
+  "addUser": "Add User",
+  "edit": "Edit",
+  "delete": "Delete",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone",
+  "actions": "Actions",
+  "switchLanguage": "Switch Language",
+  "en": "EN",
+  "th": "TH",
+  "goToTableUser": "Go to Table User"
+}

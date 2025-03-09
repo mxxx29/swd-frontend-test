@@ -1,0 +1,17 @@
+{
+  "welcome": "ยินดีต้อนรับ",
+  "frontendDeveloper": "บททดสอบ Frontend Developer",
+  "switchToEnglish": "สลับเป็นภาษาอังกฤษ",
+  "switchToThai": "สลับเป็นภาษาไทย",
+  "addUser": "เพิ่มผู้ใช้",
+  "edit": "แก้ไข",
+  "delete": "ลบ",
+  "name": "ชื่อ",
+  "email": "อีเมล",
+  "phone": "เบอร์โทร",
+  "actions": "การกระทำ",
+  "switchLanguage": "เปลี่ยนภาษา",
+  "en": "อังกฤษ",
+  "th": "ไทย",
+  "goToTableUser": "ไปยังตารางผู้ใช้งาน"
+}
